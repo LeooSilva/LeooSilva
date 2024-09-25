@@ -11,7 +11,9 @@
 
 </div>
   
-  ##
+<a href="https://beacons.ai/LeooSilva">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LeooSilva_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooSilva&layout=compactlangs_count=168theme=dracula"/>
  
 <div> 
 
