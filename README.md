@@ -1,4 +1,4 @@
-## Hello World! Eu sou o Leonardo Gomes Silva, estudante de Programação e Tecnologia. Atualmente na faculdade de Análise e Desenvolvimento de Sistemas.
+## Hello World! Eu sou o Leonardo Gomes Silva, estudante de Programação e Tecnologia. Atualmente formado na faculdade de Análise e Desenvolvimento de Sistemas.
 
 
 <a href="https://beacons.ai/LeooSilva">
